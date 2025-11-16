@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Trading Chart Analyst",
+  "description": "An AI-powered application that analyzes trading chart images using the Gemini API to provide buy, sell, or hold recommendations with detailed reasoning and a confidence score.",
+  "requestFramePermissions": []
+}
